@@ -2,7 +2,7 @@
 
 DocPass is a mobile-responsive, privacy-first platform for student profiles, teams, documents, and event discovery. Students control their information and documents, while organizers can discover talent, create events, send invitations, review accepted attendees, and export consent-approved participant data.
 
-![DocPass welcome screen](public/screenshots/welcome.png)
+Each screenshot below is captured from the working application.
 
 ## Highlights
 
@@ -15,15 +15,31 @@ DocPass is a mobile-responsive, privacy-first platform for student profiles, tea
 - Permission-aware document sharing, profile requests, approvals, revocation, and activity history.
 - Branded intro experience, full image previews, privacy watermarking, and responsive mobile layouts.
 
-## Screen
+## Screens
 
-| Welcome and onboarding |
-| --- |
-| ![DocPass welcome screen](public/screenshots/welcome.png) |
+### Intro experience
 
-| Intro experience | Mobile welcome experience |
-| --- | --- |
-| ![DocPass intro](public/screenshots/intro.png) | ![DocPass mobile welcome](public/screenshots/mobile-welcome.png) |
+![DocPass intro](public/screenshots/intro.png)
+
+### Student onboarding
+
+![Student onboarding](public/screenshots/student-onboarding.png)
+
+### Student workspace
+
+![Student workspace](public/screenshots/student-home.png)
+
+### Private document vault
+
+![Document vault](public/screenshots/document-vault.png)
+
+### Organizer discovery
+
+![Organizer discovery](public/screenshots/organizer-discovery.png)
+
+### Event analytics and accepted attendees
+
+![Event analytics](public/screenshots/event-analytics.png)
 
 ## Tech stack
 
